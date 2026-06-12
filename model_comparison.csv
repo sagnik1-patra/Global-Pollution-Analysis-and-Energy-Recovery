@@ -1,0 +1,3 @@
+Model,Task,Main_Metric,Score,Other_Metrics
+Linear Regression,Energy Recovery Prediction,R2 Score,-0.04921760617702886,"MSE=25372.428368539473, MAE=142.53008043598987, RMSE=159.28725111740573"
+Logistic Regression,Pollution Severity Classification,Accuracy,1.0,"Precision=1.0, Recall=1.0, F1=1.0"

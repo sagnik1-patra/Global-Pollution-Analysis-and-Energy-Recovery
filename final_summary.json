@@ -1,0 +1,19 @@
+{
+    "dataset_rows": 200,
+    "dataset_columns": 15,
+    "linear_regression": {
+        "Model": "Linear Regression",
+        "R2_Score": -0.04921760617702886,
+        "MSE": 25372.428368539473,
+        "MAE": 142.53008043598987,
+        "RMSE": 159.28725111740573
+    },
+    "logistic_regression": {
+        "Model": "Logistic Regression",
+        "Accuracy": 1.0,
+        "Precision": 1.0,
+        "Recall": 1.0,
+        "F1_Score": 1.0
+    },
+    "output_directory": "C:\\Users\\NXTWAVE\\Downloads\\Global Pollution Analysis and Energy Recovery"
+}

@@ -1,0 +1,6 @@
+Country,Year,Air_Pollution_Index,Water_Pollution_Index,Soil_Pollution_Index,Industrial_Waste_in_tons,Energy_Recovered_in_GWh,CO2_Emissions_in_MT,Renewable_Energy_%,Plastic_Waste_Produced_in_tons,Energy_Consumption_Per_Capita_in_MWh,Population_in_millions,GDP_Per_Capita_in_USD
+Hungary,2005,272.7,124.27,51.95,94802.83,158.14,5.3,41.11,37078.88,12.56,42.22,20972.96
+Singapore,2001,86.72,60.34,117.22,56283.92,498.04,6.34,36.44,33128.2,5.23,137.25,34850.41
+Romania,2016,91.59,83.36,121.72,56256.02,489.51,49.69,9.38,18803.46,13.15,124.47,57773.15
+Cook Islands,2018,280.61,67.16,93.58,74864.73,145.18,8.91,18.97,9182.27,0.78,67.8,21837.51
+Djibouti,2008,179.16,127.53,121.55,76862.06,40.38,14.93,34.0,39235.12,12.84,186.52,41379.37
